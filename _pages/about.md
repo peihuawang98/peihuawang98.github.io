@@ -1,17 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am an environmental engineer and computational biologist specializing in cross-scale dynamics of infectious disease transmission in populations, buildings, and microbial communities. I was a Postdoctoral Research Scientist in the Department of Epidemiology, Mailman School of Public Health, Columbia University, working with [Wan Yang](https://www.publichealth.columbia.edu/profile/wan-yang-phd) on infectious disease modeling. I received my Ph.D. from the Department of Mechanical Engineering, The University of Hong Kong, mentored by [Yuguo Li](https://mech.hku.hk/academic-staff/li-y), [Patrick Lee](https://www.cityu.edu.hk/see/people/prof-patrick-k-h-lee), and [Andrew Persily](https://www.nist.gov/people/andrew-k-persily), with a focus on building environmental engineering. Prior to that, I received my bachelor’s degree in Environmental Engineering from Zhejiang University.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research focuses on:
+1. Modeling infectious disease transmission across metapopulations, driven by human mobility, climate conditions, and demographic structures, to support public health policy making;
+1. Modeling microbial transmission and exposure risks in built environments, driven by human behaviors and environmental conditions, to support engineering control of infection;
+1. Investigating microbial ecology within indoor microbiomes during microbial invasions in buildings, to support early detection of pathogen circulation.
 
-A data-driven personal website
+My future research goal is to elucidate how microbial transmission in built environments, driven by human behaviors, indoor climates, and building operations, affects infectious disease transmission at broader community and population scales, thereby informing infection control strategies.
+
+My approach is primarily computational but also integrates experimental and fieldwork components. During my Ph.D., I established the first wet lab within a building physics lab, generating molecular evidence to verify modeling results. Additionally, I have extensive fieldwork experience involving infectious disease studies with human participants in residential and commercial buildings, aircraft cabins, and clinical settings. My fieldwork contributions during the COVID-19 pandemic have been recognized through the [Hong Kong Chief Executive's Commendation for Community Service](https://www.admwing.gov.hk/eng/honours_awards/hon_list.html).
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +60,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

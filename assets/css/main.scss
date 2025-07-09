@@ -40,3 +40,36 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.masthead,
+.masthead--sticky {
+  min-height: 170px;
+  background: url("/images/header-bg.png") center/cover no-repeat;
+  --global-bg-color: transparent;
+}
+
+.masthead__inner-wrap {
+  position: absolute; /* anchor it inside .masthead */
+  bottom:   0; /* stick to the bottom edge */
+  left:     0;
+  right:    0;
+  padding:  0 1em .7em; /* tweak bottom padding to taste */
+}
+
+
+
+.research-figcap,
+figure figcaption {
+  font-size: 0.8rem; /* a bit smaller than body text */
+  color: rgb(50%, 50%, 50%); /* dark-gray text, a little lighter */
+  margin-top: 0.4em; /* space above the caption */
+  line-height: 1.4; /* tidier multiple lines */
+}
+
+
+
+#theme-toggle { display: none !important; }
+
+
+
+.site-last-updated { display: none !important; }

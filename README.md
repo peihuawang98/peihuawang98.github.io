@@ -94,3 +94,9 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+## License
+
+- **Site source code and theme** are covered by the [MIT License](LICENSE).  
+- **All website content** (text, figures, data, etc.) is © Peihua Wang and licensed under  
+  [CC BY-NC-ND 4.0](LICENSE-CC-BY-NC-ND-4.0.txt).
