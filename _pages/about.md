@@ -16,7 +16,7 @@ My research focuses on:
 
 My future research goal is to elucidate how microbial transmission in built environments, driven by human behaviors, indoor climates, and building operations, affects infectious disease transmission at broader community and population scales, thereby informing infection control strategies.
 
-My approach is primarily computational but also integrates experimental and fieldwork components. During my Ph.D., I established the first wet lab within a building physics lab, generating molecular evidence to verify modeling results. Additionally, I have extensive fieldwork experience involving infectious disease studies with human participants in residential and commercial buildings, aircraft cabins, and clinical settings. My fieldwork contributions during the COVID-19 pandemic have been recognized through the [Hong Kong Chief Executive's Commendation for Community Service](https://www.admwing.gov.hk/eng/honours_awards/hon_list.html).
+My approach is primarily computational but also integrates experimental and fieldwork components. During my Ph.D., I established the first wet lab within a building physics lab, generating molecular evidence to verify modeling results. Additionally, I have extensive fieldwork experience involving infectious disease studies with human participants in residential and commercial buildings, aircraft cabin environments, and clinical settings. My fieldwork contributions during the COVID-19 pandemic have been recognized through the [Hong Kong Chief Executive's Commendation for Community Service](https://www.admwing.gov.hk/eng/honours_awards/hon_list.html).
 
 <!-- A data-driven personal website
 ======

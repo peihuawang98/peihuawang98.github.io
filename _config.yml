@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Peihua's Homepage"
 title_separator          : "-"
 name                     : &name "Peihua Wang"
 description              : &description "Postdoc in infectious disease modeling"
