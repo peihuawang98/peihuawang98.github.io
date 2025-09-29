@@ -7,10 +7,10 @@ redirect_from: # anyone who browses to https://peihuawang98.github.io/resume wil
   - /resume
 ---
 
-My CV can be downloaded [here](/files/cv/Peihua Wang_CV.pdf).
+My CV can be downloaded [here](/files/cv/CV_Peihua Wang.pdf).
 
 <iframe
-  src="{{ '/assets/pdfjs-5.3.93-dist/web/viewer.html' | relative_url }}?file={{ '/files/cv/Peihua Wang_CV.pdf' | relative_url | uri_escape }}"
+  src="{{ '/assets/pdfjs-5.3.93-dist/web/viewer.html' | relative_url }}?file={{ '/files/cv/CV_Peihua Wang.pdf' | relative_url | uri_escape }}"
   width="80%"
   height="1100px"
   style="border:none;">

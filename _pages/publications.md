@@ -12,12 +12,12 @@ Manuscripts under review
 <small>* indicates corresponding author</small>
 
 - **Wang P***, Wang X, Pei S, Xu X, Zhang W, Wang Y, Yang W. [_Rural-to-urban migrant worker mobility shaped measles epidemics in China_](https://doi.org/10.1101/2025.06.21.25330021). Under review.
-- **Wang P***, Chen J, Zhang W, Wang Y, Yang W. _Modeling the influences of climate conditions on measles transmission in China_. Under review.
 - **Wang P**, Zhao P, Lim C, Wang H, Lam Z, Liu J, Lee PKH, Li Y. _Using Lactobacillus strains to simulate multi-pathway fomite-mediated bacterial transfer in households_. Under review.
 - Zhao P, **Wang P***, Zhang N, Lam T, Wang H, Liu J, Li Y. _Tracking the indoor spread of invading microbes and mitigation strategies_. Under review.
 
 Publications
 ------
+- **Wang P***, Chen J, Zhang W, Wang Y, Yang W. [_Modeling the influences of climate conditions on measles transmission in China_] (https://doi.org/10.1017/S095026882510054X). Epidemiology & Infection. 2025;153:e110.
 - **Wang P**, Tong X, Zhang N, Miao T, Chan Jack PT, Huang H, Lee Patrick KH, Li Y. [_Fomite transmission follows invasion ecology principles_](https://doi.org/10.1128/msystems.00211-22). mSystems. 2022;7(3):e00211–22. 
 - **Wang P**, Zhang N, Miao T, Chan JPT, Huang H, Lee PKH, Li Y. [_Surface touch network structure determines bacterial contamination spread on surfaces and occupant exposure_](https://doi.org/10.1016/j.jhazmat.2021.126137). Journal of Hazardous Materials. 2021;416:126137.
 - **Wang P**, Zhang N, Lee PKH, Li Y. [_Quantification of Lactobacillus delbrueckii subsp. bulgaricus and its applicability as a tracer for studying contamination spread on environmental surfaces_](https://doi.org/10.1016/j.buildenv.2021.107869). Building and Environment. 2021;197:107869.
