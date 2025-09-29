@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=9D1dcYAAAAAJ&hl=en).
+You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=9D1dcYAAAAAJ&hl=en).
 
 Manuscripts under review
 ------
@@ -17,6 +17,7 @@ Manuscripts under review
 
 Publications
 ------
+<small>* indicates corresponding author</small>
 - **Wang P***, Chen J, Zhang W, Wang Y, Yang W. [_Modeling the influences of climate conditions on measles transmission in China_] (https://doi.org/10.1017/S095026882510054X). Epidemiology & Infection. 2025;153:e110.
 - **Wang P**, Tong X, Zhang N, Miao T, Chan Jack PT, Huang H, Lee Patrick KH, Li Y. [_Fomite transmission follows invasion ecology principles_](https://doi.org/10.1128/msystems.00211-22). mSystems. 2022;7(3):e00211–22. 
 - **Wang P**, Zhang N, Miao T, Chan JPT, Huang H, Lee PKH, Li Y. [_Surface touch network structure determines bacterial contamination spread on surfaces and occupant exposure_](https://doi.org/10.1016/j.jhazmat.2021.126137). Journal of Hazardous Materials. 2021;416:126137.
