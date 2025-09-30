@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research strengthens the resilience of public health systems at the national and building levels by developing mathematical and computational models that integrate infectious disease modeling, building science, and environmental microbiome.
+My research strengthens the resilience of public health systems at the national and building levels by developing mathematical and computational models that integrate infectious disease epidemiology, building science, and environmental microbiome.
 
 Infectious disease transmission at the national level
 ------
