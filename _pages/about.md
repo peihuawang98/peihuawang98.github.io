@@ -20,7 +20,7 @@ My approach is primarily computational, while also integrating experimental, fie
   <img
     src="/images/fieldwork.png"
     alt="fieldwork">
-  <figcaption class="about-figcap">
+  <figcaption class="research-figcap">
     Tracer gas experiments in a residential unit and a restaurant linked to COVID-19 outbreaks; Hong Kong Chief Executive’s Commendation for Community Service presented by Carrie Lam.
   </figcaption>
 </figure>
