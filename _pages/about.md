@@ -16,6 +16,15 @@ I develop computational models to strengthen the resilience of public health sys
 
 My approach is primarily computational, while also integrating experimental, fieldwork, and industry collaborative components. During my PhD, I established the first wet lab from scratch in a building physics lab, from procuring equipment to generating molecular evidence that validated modeling results. Additionally, I have extensive experience in infectious disease fieldwork in residential and commercial buildings, aircraft cabin environments, subway systems, clinical settings, and poultry markets. My fieldwork contributions during the COVID-19 pandemic were recognized by the [Hong Kong Chief Executive's Commendation for Community Service](https://www.admwing.gov.hk/eng/honours_awards/hon_list.html). I also obtained research funding from Procter & Gamble in a PI-equivalent role for a household hygiene innovation project.
 
+<figure>
+  <img
+    src="/images/fieldwork.png"
+    alt="fieldwork">
+  <figcaption class="about-figcap">
+    Tracer gas experiments in a residential unit and a restaurant linked to COVID-19 outbreaks; Hong Kong Chief Executive’s Commendation for Community Service presented by Carrie Lam.
+  </figcaption>
+</figure>
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
