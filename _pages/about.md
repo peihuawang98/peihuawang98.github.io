@@ -14,6 +14,15 @@ My research strengthens the resilience of public health systems by developing co
 - Modeling microbial transmission in built environments to quantify how occupant behavior and environmental conditions influence exposure risks and to support engineering control;
 - Modeling microbial invasion ecology indoors to quantify invasion dynamics and support source tracking of microbial invaders.
 
+<figure>
+  <img
+    src="/images/schematic.png"
+    alt="schematic">
+  <figcaption class="schematic-figcap">
+    infectious disease transmission at the population, building, and microbiome levels.
+  </figcaption>
+</figure>
+
 My approach is primarily computational, while also integrating experimental, fieldwork, and industry collaborative components. During my PhD, I established the first wet lab from scratch in a building physics lab, from procuring equipment to generating molecular evidence that validated modeling results. Additionally, I have extensive experience in infectious disease fieldwork in residential and commercial buildings, aircraft cabin environments, subway systems, clinical settings, and poultry markets. My fieldwork contributions during the COVID-19 pandemic were recognized by the [Hong Kong Chief Executive's Commendation for Community Service](https://www.admwing.gov.hk/eng/honours_awards/hon_list.html). I also obtained research funding from Procter & Gamble in a PI-equivalent role for a household hygiene innovation project.
 
 <figure>
