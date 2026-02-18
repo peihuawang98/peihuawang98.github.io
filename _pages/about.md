@@ -19,7 +19,7 @@ My research strengthens the resilience of public health systems by developing co
     src="/images/schematic.png"
     alt="schematic">
   <figcaption class="schematic-figcap">
-    infectious disease transmission at the population, building, and microbiome levels.
+    Infectious disease transmission at the population, building, and microbiome levels.
   </figcaption>
 </figure>
 
