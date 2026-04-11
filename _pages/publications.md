@@ -11,13 +11,13 @@ Manuscripts under review
 ------
 <small>* indicates corresponding author</small>
 
-- **Wang P***, Wang X, Pei S, Xu X, Zhang W, Wang Y, Yang W. [_Rural-to-urban migrant worker mobility shaped measles epidemics in China_](https://doi.org/10.1101/2025.06.21.25330021). Under review.
-- **Wang P**, Zhao P, Lim C, Wang H, Lam Z, Liu J, Lee PKH, Li Y. _Using Lactobacillus strains to simulate multi-pathway fomite-mediated bacterial transfer in households_. Under review.
+- **Wang P**, Zhao P, Lim C, Wang H, Lam Z, Liu J, Lee PKH, Li Y. _Using Lactobacillus strains to simulate multi-pathway fomite-mediated bacterial transfer in households_. Under review. 2026.
 
 Publications
 ------
 <small>* indicates corresponding author</small>
 
+- **Wang P***, Wang X, Pei S, Xu X, Zhang W, Wang Y, Yang W. [_Rural-to-urban migrant worker mobility shaped measles epidemics in China_](https://doi.org/10.1371/journal.pcbi.1014182). PLOS Computational Biology. 2026;22(4):e1014182.
 - **Wang P***, Chen J, Zhang W, Wang Y, Yang W. [_Modeling the influences of climate conditions on measles transmission in China_](https://doi.org/10.1017/S095026882510054X). Epidemiology & Infection. 2025;153:e110.
 - Zhao P, **Wang P***, Zhang N, Lam T, Wang H, Liu J, Li Y. [_Experimental tracing and modeling of exogenous microbe dynamics in home environments_](https://doi.org/10.1021/acs.est.5c06069). Environmental Science & Technology. 2025;59(50):27474–85.
 - **Wang P**, Tong X, Zhang N, Miao T, Chan Jack PT, Huang H, Lee Patrick KH, Li Y. [_Fomite transmission follows invasion ecology principles_](https://doi.org/10.1128/msystems.00211-22). mSystems. 2022;7(3):e00211–22. 
