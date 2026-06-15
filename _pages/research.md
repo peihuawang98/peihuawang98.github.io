@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research strengthens the resilience of public health systems by developing computational models that integrate infectious disease epidemiology with built and urban environment research.
+My research strengthens the resilience of public health systems by developing computational models that integrate infectious disease epidemiology with urban and built environment research.
 
 Infectious disease transmission at the population level
 ------
