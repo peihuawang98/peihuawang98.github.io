@@ -35,7 +35,7 @@ My approach is primarily computational, while also integrating experimental, fie
     src="/images/fieldwork.png"
     alt="fieldwork">
   <figcaption class="fieldwork-figcap">
-    Tracer-gas experiments in a residential unit and a commercial space linked to COVID-19 outbreaks; Hong Kong Chief Executive’s Commendation for Community Service for outstanding contribution to the fight against COVID-19, presented by Carrie Lam.
+    Tracer-gas experiments in a residential unit and a commercial space linked to COVID-19 outbreaks; Fieldwork-informed guidance on drainage system maintenance to reduce infectious disease transmission in Hong Kong residential buildings; Hong Kong Chief Executive’s Commendation for Community Service for outstanding contribution to the fight against COVID-19, presented by Carrie Lam.
   </figcaption>
 </figure>
 
