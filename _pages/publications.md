@@ -11,7 +11,7 @@ Manuscripts under review
 ------
 <small>* indicates corresponding author</small>
 
-- **Wang P**, Zhao P, Lim C, Wang H, Lam Z, Liu J, Lee PKH, Li Y. _Using Lactobacillus strains to simulate multi-pathway fomite-mediated bacterial transfer in households_. Under review. 2026.
+- **Wang P**, Zhao P, Lim C, Wang H, Lam Z, Liu J, Lee PKH, Li Y. _Using Lactobacillus strains as surrogate tracers for tracking multiple fomite-mediated bacterial transfer pathways in households_. Under review. 2026.
 
 Publications
 ------
