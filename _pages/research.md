@@ -14,7 +14,7 @@ Infectious disease transmission at the population level
     src="/images/research/infectious disease population_300dpi.png"
     alt="infectious disease population">
   <figcaption class="research-figcap">
-    Epidemic model for simulating transmission dynamics and identifying epidemiological connections.
+    Epidemic models for simulating transmission dynamics and identifying epidemiological connections.
   </figcaption>
 </figure>
 
